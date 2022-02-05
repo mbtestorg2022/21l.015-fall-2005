@@ -23,12 +23,63 @@ The class as taught this year is a theory and practice course. During the semest
 Course Requirements
 -------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 2 Oral Presentations | 15% |
-| 2 Media Assignments (Wiki and Podcast) | 15% |
-| 3 Papers 5-7 Pages (N.B. the Third Paper is a Revision of Paper 1 or 2) | 30% |
-|  {{< br >}}{{< br >}} _Final Media Project_ {{< br >}}{{< br >}} (Working Groups) Media Project + 5 Page Project Description (Co. authored) + Bibliography {{< br >}}{{< br >}}  | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 Oral Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 Media Assignments (Wiki and Podcast)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 Papers 5-7 Pages (N.B. the Third Paper is a Revision of Paper 1 or 2)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+_Final Media Project_
+
+(Working Groups) Media Project + 5 Page Project Description (Co. authored) + Bibliography
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Details of assignments can be found under the dates they are due on the class [calendar]({{< baseurl >}}/pages/calendar).
 
